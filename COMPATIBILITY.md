@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 3905450 |
 | Functions | RC-car movement / Speed / Jump practice / Sections / Co-op puzzles |
-| Download | [PC package](https://flyn.im/6PCpxq) |
+| Download | [PC package](https://flyn.im/Eeffel) |
 
 ## Setup
 
