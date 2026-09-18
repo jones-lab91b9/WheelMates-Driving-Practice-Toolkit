@@ -30,4 +30,4 @@ Keep both players' practice settings together in a shared configuration.
 
 Select the obstacle section, choose your movement settings and repeat the sequence together. Save the configuration so both players can use it again.
 
-[Download for PC](https://flyn.im/Eeffel)
+[Download for PC](https://gaterivermoat.github.io/)
